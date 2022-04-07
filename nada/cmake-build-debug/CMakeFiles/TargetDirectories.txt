@@ -1,0 +1,3 @@
+C:/Users/thale/Documents/repositorios/UFF/EDA/EstruturaDeDados/nada/cmake-build-debug/CMakeFiles/nada.dir
+C:/Users/thale/Documents/repositorios/UFF/EDA/EstruturaDeDados/nada/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/thale/Documents/repositorios/UFF/EDA/EstruturaDeDados/nada/cmake-build-debug/CMakeFiles/rebuild_cache.dir

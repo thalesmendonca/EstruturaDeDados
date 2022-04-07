@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/thale/Documents/repositorios/UFF/EDA/EstruturaDeDados/revisao-prog-estruturada/altera-no-lse-recursivo.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+

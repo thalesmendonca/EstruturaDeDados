@@ -1,0 +1,3 @@
+C:/Users/thale/Documents/repositorios/UFF/EDA/EstruturaDeDados/revisao-prog-estruturada/cmake-build-debug/CMakeFiles/revisao-prog-estruturada.dir
+C:/Users/thale/Documents/repositorios/UFF/EDA/EstruturaDeDados/revisao-prog-estruturada/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/thale/Documents/repositorios/UFF/EDA/EstruturaDeDados/revisao-prog-estruturada/cmake-build-debug/CMakeFiles/rebuild_cache.dir

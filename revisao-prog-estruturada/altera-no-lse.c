@@ -17,7 +17,6 @@ void altera(TLista* li, int vantigo, int vnovo) {
   while(aux != NULL && aux->info != vantigo) aux = aux->prox;
   if(aux == NULL) return;
   aux->info = vnovo;
-  return;
 }
 
 void imprime_lista(TLista *li) {
