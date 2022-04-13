@@ -1,0 +1,3 @@
+/media/thales/BA843265843223F3/projetos-c/primeiro-teste/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/thales/BA843265843223F3/projetos-c/primeiro-teste/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/thales/BA843265843223F3/projetos-c/primeiro-teste/cmake-build-debug/CMakeFiles/primeiro_teste.dir
