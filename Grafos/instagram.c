@@ -132,7 +132,7 @@ TGrafo *mais_popular(TGrafo *g) {
 
 int segue_mais_velho(TGrafo *g, int imprime) {
     TGrafo *auxGrafo = g;
-    TVizinho *auxVizinhos = g->prim_vizinho;
+    TVizinho *auxVizinhos;
     TVizinho *listaNomes = NULL;
     int qntdSegueVelhos = 0;
     while(auxGrafo != NULL){
@@ -140,10 +140,11 @@ int segue_mais_velho(TGrafo *g, int imprime) {
         while(auxVizinhos != NULL){
             if(busca_vertice(g, auxVizinhos->nome)->idade < auxGrafo->idade) break;
             auxVizinhos = auxVizinhos->prox;
+            if(auxVizinhos == NULL) {
+                listaNomes = insere_lse(listaNomes, auxGrafo->nome);
+            }
         }
-        if(auxVizinhos == NULL) {
-            listaNomes = insere_lse(listaNomes, auxGrafo->nome);
-        }
+
         auxGrafo = auxGrafo->prox;
     }
     if(imprime){

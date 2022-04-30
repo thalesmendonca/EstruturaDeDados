@@ -3,4 +3,4 @@ project(Grafos C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(Grafos instagram.c)
+add_executable(Grafos bipartido.c)

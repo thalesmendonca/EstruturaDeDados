@@ -49,8 +49,8 @@ cmake_ninja_workdir = /media/thales/BA843265843223F3/projetos-c/EstruturaDeDados
 
 build cmake_object_order_depends_target_Grafos: phony || CMakeFiles/Grafos.dir
 
-build CMakeFiles/Grafos.dir/instagram.c.o: C_COMPILER__Grafos_Debug /media/thales/BA843265843223F3/projetos-c/EstruturaDeDados/Grafos/instagram.c || cmake_object_order_depends_target_Grafos
-  DEP_FILE = CMakeFiles/Grafos.dir/instagram.c.o.d
+build CMakeFiles/Grafos.dir/bipartido.c.o: C_COMPILER__Grafos_Debug /media/thales/BA843265843223F3/projetos-c/EstruturaDeDados/Grafos/bipartido.c || cmake_object_order_depends_target_Grafos
+  DEP_FILE = CMakeFiles/Grafos.dir/bipartido.c.o.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles/Grafos.dir
   OBJECT_FILE_DIR = CMakeFiles/Grafos.dir
@@ -63,7 +63,7 @@ build CMakeFiles/Grafos.dir/instagram.c.o: C_COMPILER__Grafos_Debug /media/thale
 #############################################
 # Link the executable Grafos
 
-build Grafos: C_EXECUTABLE_LINKER__Grafos_Debug CMakeFiles/Grafos.dir/instagram.c.o
+build Grafos: C_EXECUTABLE_LINKER__Grafos_Debug CMakeFiles/Grafos.dir/bipartido.c.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/Grafos.dir
   POST_BUILD = :
