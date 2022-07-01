@@ -1,0 +1,3 @@
+D:/projetos-c/EstruturaDeDados/menor-b/cmake-build-debug/CMakeFiles/menor_b.dir
+D:/projetos-c/EstruturaDeDados/menor-b/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/projetos-c/EstruturaDeDados/menor-b/cmake-build-debug/CMakeFiles/rebuild_cache.dir

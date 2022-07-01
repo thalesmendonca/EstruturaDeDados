@@ -1,0 +1,3 @@
+D:/projetos-c/EstruturaDeDados/intercalacao-otima/cmake-build-debug/CMakeFiles/intercalacao_otima.dir
+D:/projetos-c/EstruturaDeDados/intercalacao-otima/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/projetos-c/EstruturaDeDados/intercalacao-otima/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:/projetos-c/EstruturaDeDados/selecao-natural/cmake-build-debug/CMakeFiles/selecao_natural.dir
+D:/projetos-c/EstruturaDeDados/selecao-natural/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/projetos-c/EstruturaDeDados/selecao-natural/cmake-build-debug/CMakeFiles/rebuild_cache.dir

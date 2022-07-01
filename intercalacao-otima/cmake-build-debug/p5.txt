@@ -1,0 +1,13 @@
+6;Jonas;
+7;Vanessa;
+10;Marcela;
+14;Joao;
+18;Bruna;
+29;Maria;
+46;Larissa;
+48;Tatiana;
+56;Catarina;
+59;Matheus;
+74;Karla;
+75;Mariana;
+76;Mirtes;
