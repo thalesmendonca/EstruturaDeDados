@@ -1,0 +1,3 @@
+D:/projetos-c/EstruturaDeDados/b_mais_disco/cmake-build-debug/CMakeFiles/b_mais_disco.dir
+D:/projetos-c/EstruturaDeDados/b_mais_disco/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/projetos-c/EstruturaDeDados/b_mais_disco/cmake-build-debug/CMakeFiles/rebuild_cache.dir

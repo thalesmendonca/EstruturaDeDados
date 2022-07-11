@@ -1,0 +1,19 @@
+# ninja log v5
+1	435	6784161948376188	CMakeFiles/b_mais_disco.dir/arvore_b_mais.c.obj	a67a14dfef953bc7
+436	702	6784161950999099	b_mais_disco.exe	c879c9a5855afbc8
+4	762	6784918759097107	CMakeFiles/b_mais_disco.dir/arvore_b_mais.c.obj	a67a14dfef953bc7
+762	1341	6784918764819252	b_mais_disco.exe	c879c9a5855afbc8
+2	211	6784919199310734	CMakeFiles/b_mais_disco.dir/arvore_b_mais.c.obj	a67a14dfef953bc7
+212	486	6784919201963649	b_mais_disco.exe	c879c9a5855afbc8
+3	611	6784940492072511	CMakeFiles/b_mais_disco.dir/arvore_b_mais.c.obj	a67a14dfef953bc7
+611	828	6784940494248254	b_mais_disco.exe	c879c9a5855afbc8
+2	590	6784943380763759	CMakeFiles/b_mais_disco.dir/arvore_b_mais.c.obj	a67a14dfef953bc7
+590	851	6784943383306960	b_mais_disco.exe	c879c9a5855afbc8
+2	194	6784947556215494	CMakeFiles/b_mais_disco.dir/arvore_b_mais.c.obj	a67a14dfef953bc7
+195	397	6784947558050569	b_mais_disco.exe	c879c9a5855afbc8
+9	262	6784948000931678	CMakeFiles/b_mais_disco.dir/arvore_b_mais.c.obj	a67a14dfef953bc7
+263	492	6784948003195864	b_mais_disco.exe	c879c9a5855afbc8
+3	323	6784948124561608	CMakeFiles/b_mais_disco.dir/arvore_b_mais.c.obj	a67a14dfef953bc7
+323	661	6784948127907805	b_mais_disco.exe	c879c9a5855afbc8
+3	205	6784957004238910	CMakeFiles/b_mais_disco.dir/arvore_b_mais.c.obj	a67a14dfef953bc7
+206	420	6784957006308486	b_mais_disco.exe	c879c9a5855afbc8

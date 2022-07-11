@@ -11,7 +11,7 @@
 # =============================================================================
 
 # =============================================================================
-# Project: menor_b
+# Project: b_mais_disco
 # Configurations: Debug
 # =============================================================================
 
@@ -39,46 +39,46 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = D$:/projetos-c/EstruturaDeDados/menor-b/cmake-build-debug/
+cmake_ninja_workdir = D$:/projetos-c/EstruturaDeDados/b_mais_disco/cmake-build-debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target menor_b
+# Object build statements for EXECUTABLE target b_mais_disco
 
 
 #############################################
-# Order-only phony target for menor_b
+# Order-only phony target for b_mais_disco
 
-build cmake_object_order_depends_target_menor_b: phony || CMakeFiles/menor_b.dir
+build cmake_object_order_depends_target_b_mais_disco: phony || CMakeFiles/b_mais_disco.dir
 
-build CMakeFiles/menor_b.dir/arvore-b-menor-todos.c.obj: C_COMPILER__menor_b_Debug D$:/projetos-c/EstruturaDeDados/menor-b/arvore-b-menor-todos.c || cmake_object_order_depends_target_menor_b
-  DEP_FILE = CMakeFiles\menor_b.dir\arvore-b-menor-todos.c.obj.d
+build CMakeFiles/b_mais_disco.dir/arvore_b_mais.c.obj: C_COMPILER__b_mais_disco_Debug D$:/projetos-c/EstruturaDeDados/b_mais_disco/arvore_b_mais.c || cmake_object_order_depends_target_b_mais_disco
+  DEP_FILE = CMakeFiles\b_mais_disco.dir\arvore_b_mais.c.obj.d
   FLAGS = -g -std=gnu99
-  OBJECT_DIR = CMakeFiles\menor_b.dir
-  OBJECT_FILE_DIR = CMakeFiles\menor_b.dir
+  OBJECT_DIR = CMakeFiles\b_mais_disco.dir
+  OBJECT_FILE_DIR = CMakeFiles\b_mais_disco.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target menor_b
+# Link build statements for EXECUTABLE target b_mais_disco
 
 
 #############################################
-# Link the executable menor_b.exe
+# Link the executable b_mais_disco.exe
 
-build menor_b.exe: C_EXECUTABLE_LINKER__menor_b_Debug CMakeFiles/menor_b.dir/arvore-b-menor-todos.c.obj
+build b_mais_disco.exe: C_EXECUTABLE_LINKER__b_mais_disco_Debug CMakeFiles/b_mais_disco.dir/arvore_b_mais.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\menor_b.dir
+  OBJECT_DIR = CMakeFiles\b_mais_disco.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = menor_b.exe
-  TARGET_IMPLIB = libmenor_b.dll.a
-  TARGET_PDB = menor_b.exe.dbg
+  TARGET_FILE = b_mais_disco.exe
+  TARGET_IMPLIB = libb_mais_disco.dll.a
+  TARGET_PDB = b_mais_disco.exe.dbg
 
 
 #############################################
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D D:\projetos-c\EstruturaDeDados\menor-b\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2022.1.1\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  COMMAND = cmd.exe /C "cd /D D:\projetos-c\EstruturaDeDados\b_mais_disco\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2022.1.1\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -89,7 +89,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D D:\projetos-c\EstruturaDeDados\menor-b\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2022.1.1\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -SD:\projetos-c\EstruturaDeDados\menor-b -BD:\projetos-c\EstruturaDeDados\menor-b\cmake-build-debug"
+  COMMAND = cmd.exe /C "cd /D D:\projetos-c\EstruturaDeDados\b_mais_disco\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2022.1.1\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -SD:\projetos-c\EstruturaDeDados\b_mais_disco -BD:\projetos-c\EstruturaDeDados\b_mais_disco\cmake-build-debug"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -99,7 +99,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
-build menor_b: phony menor_b.exe
+build b_mais_disco: phony b_mais_disco.exe
 
 # =============================================================================
 # Folder targets.
@@ -107,9 +107,9 @@ build menor_b: phony menor_b.exe
 # =============================================================================
 
 #############################################
-# Folder: D:/projetos-c/EstruturaDeDados/menor-b/cmake-build-debug
+# Folder: D:/projetos-c/EstruturaDeDados/b_mais_disco/cmake-build-debug
 
-build all: phony menor_b.exe
+build all: phony b_mais_disco.exe
 
 # =============================================================================
 # Built-in targets

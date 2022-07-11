@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "menor_b.exe"
+			"path" : "b_mais_disco.exe"
 		},
 		{
-			"path" : "menor_b.pdb"
+			"path" : "b_mais_disco.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -59,7 +59,7 @@
 			]
 		}
 	],
-	"id" : "menor_b::@6890427a1f51a3e7e1df",
+	"id" : "b_mais_disco::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -79,8 +79,8 @@
 		],
 		"language" : "C"
 	},
-	"name" : "menor_b",
-	"nameOnDisk" : "menor_b.exe",
+	"name" : "b_mais_disco",
+	"nameOnDisk" : "b_mais_disco.exe",
 	"paths" : 
 	{
 		"build" : ".",
@@ -101,7 +101,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "arvore-b.c",
+			"path" : "arvore_b_mais.c",
 			"sourceGroupIndex" : 0
 		}
 	],
